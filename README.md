@@ -74,9 +74,10 @@ Author
 Parth Tyagi
 Full-Stack SWE | iOS & AI Engineer
 Toronto, Canada
-GitHub: https://github.com/parthtyagi9
-LinkedIn: https://www.linkedin.com/in/parth-tyagi45/
-Portfolio: https://www.parthtyagi.com
+
+- GitHub: https://github.com/parthtyagi9
+- LinkedIn: https://www.linkedin.com/in/parth-tyagi45/
+- Portfolio: https://www.parthtyagi.com
 
 MIT License
 Free to use, modify, and distribute with attribution.
