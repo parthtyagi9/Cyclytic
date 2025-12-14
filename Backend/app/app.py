@@ -6,6 +6,6 @@ app = FastAPI(
     description="AI-powered period and wellness tracker backend"
 )
 
-@app.get("/")
+@app.get("/") 
 def root():
     return {"message": "Cyclytic backend running"}
