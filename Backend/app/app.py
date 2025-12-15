@@ -9,3 +9,6 @@ app = FastAPI(
 @app.get("/") 
 def root():
     return {"message": "Cyclytic backend running"}
+
+#def api_endpoint():
+    
